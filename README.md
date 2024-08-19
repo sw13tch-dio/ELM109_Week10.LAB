@@ -52,10 +52,12 @@ o	Record how the system behaves when the car passes under different light condit
 o	Note the response time of the buzzer when the sensor detects the car.
 4.	Conclusion:
 o	Discuss how the system could be improved or extended. For example, what other types of sensors might be used to improve the safety of an intersection? Can you think of what data one would need to figure out the speed of a car approaching a red light? Could you use an obstacle avoidance sensor for that, or would you need something else?
+
 Troubleshooting Tips:
 •	If the traffic light module does not function as expected, check your wiring connections and ensure each LED pin is connected to the correct Arduino pin.
 •	If the buzzer does not sound when the car passes during the red light, verify that the sensor is correctly connected and that the sensorPin in the code matches the pin you used.
 •	Ensure the power and ground connections are secure on the breadboard and Arduino, and that your Arduino IDE “recognizes” the board.
+
 Additional Challenges (Optional):
 •	Consider how to modify the code to include a pedestrian crossing signal (a green LED would work) that only allows pedestrians to cross when the traffic light is red. What parts of the code would need to change, if any, and where? 
 
