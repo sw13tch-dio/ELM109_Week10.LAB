@@ -1,4 +1,3 @@
-ELM-109 Tech Programming						                         Week 10
 LAB – TRAFFIC LIGHT	
 
 “RUNNING A RED LIGHT” 
