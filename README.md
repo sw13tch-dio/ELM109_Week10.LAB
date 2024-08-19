@@ -14,8 +14,10 @@ Equipment:
 •	1 x Buzzer (active or passive)
 •	1 x KY-032 Infrared Obstacle Avoidance Sensor
 •	1 x toy car
+
 Objective:
 In this lab, you will build a simple traffic light control system using an Arduino. The system will include a sensor that detects when a toy car passes through the intersection. If the car passes while the light is red, a buzzer will sound to indicate a traffic violation. This lab will help you understand how to use conditional logic in Arduino programming to control outputs based on sensor input.
+
 Setup:
 1.	Power and Ground Setup:
 o	Connect the Arduino’s 5V pin to the + power rail on the breadboard using a jumper wire.
